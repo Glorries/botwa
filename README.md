@@ -26,6 +26,10 @@ Re-upload numpang ganti nama gabakal bikin lu pro
 
 Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/details?id=com.termux) 
 
+## 🛡 Installation
+### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
+
 
 ## Settings
 
